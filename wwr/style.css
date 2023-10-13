@@ -32,7 +32,7 @@ header{
 
 nav a:hover{
     background-color: aqua;
-    color: black;
+    color: rgb(22, 19, 19);
  }  
 
 .book:hover, .join:hover{
