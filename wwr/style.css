@@ -86,12 +86,12 @@ footer a:hover {
     color:black;
 }
 
-.icon {
+.logo {
     width: 80px;
 }
 
 #hero-img {
-    width: 100px;
+    width: 100%;
 }
 
 footer p {
